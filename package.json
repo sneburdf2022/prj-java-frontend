@@ -1,0 +1,19 @@
+{
+  "name": "prj-java-frontend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sneburdf2022/prj-java-frontend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sneburdf2022/prj-java-frontend/issues"
+  },
+  "homepage": "https://github.com/sneburdf2022/prj-java-frontend#readme"
+}
